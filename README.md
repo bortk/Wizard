@@ -1,3 +1,3 @@
 # Wizard
 
-Abeksis Wizard New Version
+Wizard New Version
